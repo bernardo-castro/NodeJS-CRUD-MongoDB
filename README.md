@@ -16,7 +16,7 @@
 - MongoDB
 
 ## Instrucciones para instalar
-- Clonar repositorio "git clone https://github.com/bernardo-castro/NodeJS-CRUD-MongoDB.git"
+- Clonar repositorio "git clone https://github.com/bernardo-castro/NodeJS-MongoDB.git"
 - Abrir consola y ejecutar el comando "npm i"
 - Setear las variables de entorno
 
